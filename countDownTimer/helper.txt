@@ -1,0 +1,15 @@
+#Source URL: 
+https://github.com/florinpop17/10-projects-10-hours/tree/master/countdown-timer
+
+#Design: 
+https://uidesigndaily.com/posts/sketch-countdown-timer-day-876
+
+#YoutubeLink:
+https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop
+
+#ImageSource:
+www.Unsplash.com
+
+#Background Music 
+Music for content creators
+https://www.audiolibrary.com.co/declan-dp/friendship
